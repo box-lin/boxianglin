@@ -1,6 +1,6 @@
 ### Hi World 👋 
 ---
-[![Blog Badge](https://img.shields.io/badge/blog-1k+%20pageview-brightgreen)](https://boxianglin.com) [![Mail Badge](https://img.shields.io/badge/-documentinglin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:documentinglin@gmail.com)](mailto:documentinglin@gmail.com)
+[![Blog Badge](https://img.shields.io/badge/blog-1+%20pageview-brightgreen)](https://boxianglin.com) [![Mail Badge](https://img.shields.io/badge/-documentinglin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:documentinglin@gmail.com)](mailto:documentinglin@gmail.com)
 ---
 
 Here are some ideas to get you started:   
