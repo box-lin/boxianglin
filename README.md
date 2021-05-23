@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:   
 
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently 
 - 📫 How to reach me: documentinglin@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...                      
