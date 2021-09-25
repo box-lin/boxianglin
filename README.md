@@ -14,9 +14,7 @@ Here is some info about me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...    
                   
-https://github-readme-streak-stats.herokuapp.com/?user=boxianglin
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=boxianglin&layout=compact
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxianglin&langs_count=8)](https://github.com/boxianglin/github-readme-stats)![stats](https://github-readme-streak-stats.herokuapp.com/?user=boxianglin)
 
 
 #### Languages and Tools
@@ -49,6 +47,6 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=boxianglin&layout
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-https://activity-graph.herokuapp.com/graph?username=boxianglin
+![graph](https://activity-graph.herokuapp.com/graph?username=boxianglin)
 ---
 
