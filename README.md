@@ -2,7 +2,7 @@
 <img width=100% height="400" src="https://github.com/boxianglin/boxianglin/blob/main/gif/mygif.gif?raw=true"/>
 
 
-### Hi I am Boxiang (Bo), study B.S. Computer Science at Washington State University, expect grad May 2023 👋 
+### Hi I am Bo, study B.S. Computer Science at Washington State University, expect grad May 2023 👋 
 
 ---
 [![Blog Badge](https://img.shields.io/badge/blog-1+%20pageview-brightgreen)](https://boxianglin.com) [![Mail Badge](https://img.shields.io/badge/-documentinglin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:documentinglin@gmail.com)](mailto:documentinglin@gmail.com)
