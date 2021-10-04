@@ -1,22 +1,3 @@
-
-<img width=100% height="400" src="https://github.com/boxianglin/boxianglin/blob/main/gif/mygif.gif?raw=true"/>
-
-
-### Hi I am Bo, study B.S. Computer Science at Washington State University, expect grad May 2023 👋 
-
----
-[![Blog Badge](https://img.shields.io/badge/blog-1+%20pageview-brightgreen)](https://boxianglin.com) [![Mail Badge](https://img.shields.io/badge/-documentinglin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:documentinglin@gmail.com)](mailto:documentinglin@gmail.com)
----
-
-Here is some info about me:
-
-- 📫 How to reach me: documentinglin@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...    
-                  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boxianglin&langs_count=8)](https://github.com/boxianglin/github-readme-stats)![stats](https://github-readme-streak-stats.herokuapp.com/?user=boxianglin)
-
-
 #### Languages and Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -46,7 +27,4 @@ Here is some info about me:
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
-![graph](https://activity-graph.herokuapp.com/graph?username=boxianglin)
----
 
