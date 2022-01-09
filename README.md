@@ -28,3 +28,20 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+#### University C.S. Related Courses
+ 
+Repository | Course Name | Semester & Year | Language(s), Technologies
+---- | ---------- | --------------- | -----------
+[CSC 141]() | Computer Programming I | Fall 2019 | Java
+[CSC 142]() | Computer Programming II | Winter 2019 | Java
+[EE 214]() | Digital Logic Circuit Design | Fall 2020 | Verilog
+[Cpt_S 233]() | Advanced Data Structures | Spring 2021 | Java
+[Cpt_S 430]() | Numerical Analysis | Spring 2021 | Matlab, Python, Java
+[Cpt_S 355]() | Programming Language Design | Fall 2021 | Haskell, Python
+[Cpt_S 321]() | Object Oriented Programming | Fall 2021 | C#
+[Cpt_S 322]() | Software Engineering Principle | Fall 2021 | Python, Flask, SqlAlchemy
+[Cpt_S 317]() | Automata and Formal Languages | Fall 2021 | ~ Theory Course
+[Cpt_S 370]() | System Programming | Spring 2022 | Java
+[Cpt_S 437]() | Intro Machine Learning | Spring 2022 | ..
+[Cpt_S 350]() | Algorithm Analysis and Design | Spring 2022 | ..
+
