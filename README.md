@@ -41,7 +41,7 @@ Repository | Course Name | Semester & Year | Language(s), Technologies
 [Cpt_S 321]() | Object Oriented Programming | Fall 2021 | C#
 [Cpt_S 322]() | Software Engineering Principle | Fall 2021 | Python, Flask, SqlAlchemy
 [Cpt_S 317]() | Automata and Formal Languages | Fall 2021 | ~ Theory Course
-[Cpt_S 370]() | System Programming | Spring 2022 | Java
+[Cpt_S 370]() | System Programming | Spring 2022 | C/C++, Java
 [Cpt_S 437]() | Intro Machine Learning | Spring 2022 | ..
 [Cpt_S 350]() | Algorithm Analysis and Design | Spring 2022 | ..
 
